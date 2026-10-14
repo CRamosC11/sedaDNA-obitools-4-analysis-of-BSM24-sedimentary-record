@@ -28,7 +28,7 @@ It presents the distribution of the content of GC over all the sequences. The bl
 ![Captura de pantalla 2025-04-22 163430](https://github.com/user-attachments/assets/f9623f29-c2d1-47a4-8757-701f12ff0fac)
 
 ### Sequence Duplication Levels
-Percent of sequences remainin if deduplicated is 15.33 which means that 15% of the sequwnces are non unique.
+Percent of sequences remainin if deduplicated is 15.33 which means that 15% of the sequences are non unique.
 Overrepresented sequences: FastQC indicates that the possible source of the 2 sequences more overrepresented is TruSeq Adapter which could explain the high % of GC content that this file has. Reverse sequences present a overrepresented sequence (GGGGGGGGG....) that also could explain the high % of GC content of the file but I don´t know how these sequences come from or how they were originated.
 ![Captura de pantalla 2025-04-22 163439](https://github.com/user-attachments/assets/3b3181e9-f565-41c3-9483-09db22700202)
 
