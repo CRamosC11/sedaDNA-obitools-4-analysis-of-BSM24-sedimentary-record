@@ -1,7 +1,7 @@
 ## Read Me
   
 This document outlines the pipeline employed for the bioinformatic analysis of the trnL loop region of sedaDNA sequences obtained from Basa de la Mora (Pyrenees, Spain).
-The research is part of the CORREDORAS project. We provide the code necessary to replicate the analysis, including the use of OBITOOLS version 4.4.0 for cleaning and filtering raw sequences, as well as the methodology used to construct a reference database for sequence comparison.
+The research is part of the CORREDORAS project (PID2022-141558NB-I00). We provide the code necessary to replicate the analysis, including the use of OBITOOLS version 4.4.0 for cleaning and filtering raw sequences, as well as the methodology used to construct a reference database for sequence comparison.
 
 ## FastQC analysis
 
